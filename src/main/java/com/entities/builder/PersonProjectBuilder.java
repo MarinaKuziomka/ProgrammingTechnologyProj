@@ -5,9 +5,9 @@
  */
 package com.entities.builder;
 
-import com.wookie.devteam.entities.Person;
-import com.wookie.devteam.entities.PersonProject;
-import com.wookie.devteam.entities.Project;
+import com.entities.Person;
+import com.entities.PersonProject;
+import com.entities.Project;
 import java.util.Date;
 
 
