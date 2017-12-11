@@ -5,13 +5,13 @@
  */
 package com.entities;
 
+
 import java.util.Date;
 import java.util.Objects;
 
 public class PersonProject {
     private Person person;
     private Project project;
-//    private Date date;
     private Integer time;
 
     public Person getPerson() {
