@@ -5,7 +5,7 @@
  */
 package com.entities.builder;
 
-import com.wookie.devteam.entities.Role;
+import com.entities.Role;
 
 
 public class RoleBuilder {
