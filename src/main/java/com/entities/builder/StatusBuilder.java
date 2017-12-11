@@ -5,6 +5,7 @@
  */
 package com.entities.builder;
 
+
 import com.entities.Status;
 
 public class StatusBuilder {
