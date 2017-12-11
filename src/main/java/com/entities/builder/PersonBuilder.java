@@ -5,9 +5,9 @@
  */
 package com.entities.builder;
 
-import com.wookie.devteam.entities.Person;
-import com.wookie.devteam.entities.Qualification;
-import com.wookie.devteam.entities.Role;
+import com.entities.Person;
+import com.entities.Qualification;
+import com.entities.Role;
 import java.sql.Date;
 
 
