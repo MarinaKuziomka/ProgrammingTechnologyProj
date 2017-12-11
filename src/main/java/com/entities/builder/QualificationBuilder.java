@@ -5,7 +5,7 @@
  */
 package com.entities.builder;
 
-import com.wookie.devteam.entities.Qualification;
+import com.entities.Qualification;
 
 
 public class QualificationBuilder {
