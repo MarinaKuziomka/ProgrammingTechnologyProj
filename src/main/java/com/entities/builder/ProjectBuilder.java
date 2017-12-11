@@ -11,7 +11,6 @@ import com.entities.Status;
 import java.math.BigDecimal;
 import java.util.Date;
 
-
 public class ProjectBuilder {
     private Project instance;
     

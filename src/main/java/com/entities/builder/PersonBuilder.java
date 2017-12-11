@@ -10,7 +10,6 @@ import com.entities.Qualification;
 import com.entities.Role;
 import java.sql.Date;
 
-
 public class PersonBuilder {
     private Person instance;
     

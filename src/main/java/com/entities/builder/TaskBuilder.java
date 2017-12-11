@@ -9,7 +9,6 @@ import com.entities.Project;
 import com.entities.Status;
 import com.entities.Task;
 
-
 public class TaskBuilder {
     private Task instance;
     

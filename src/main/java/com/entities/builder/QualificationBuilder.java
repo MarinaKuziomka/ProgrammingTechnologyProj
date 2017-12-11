@@ -7,7 +7,6 @@ package com.entities.builder;
 
 import com.entities.Qualification;
 
-
 public class QualificationBuilder {
     private Qualification instance;
 

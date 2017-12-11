@@ -10,7 +10,6 @@ import com.entities.PersonProject;
 import com.entities.Project;
 import java.util.Date;
 
-
 public class PersonProjectBuilder {
     private PersonProject instance;
     

@@ -7,7 +7,6 @@ package com.entities.builder;
 
 import com.entities.Role;
 
-
 public class RoleBuilder {
     private Role instance;
     
