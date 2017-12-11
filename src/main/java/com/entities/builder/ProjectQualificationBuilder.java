@@ -3,16 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.wookie.devteam.entities.builder;
+package com.entities.builder;
 
 import com.wookie.devteam.entities.Project;
 import com.wookie.devteam.entities.ProjectQualification;
 import com.wookie.devteam.entities.Qualification;
 
-/**
- *
- * @author wookie
- */
 public class ProjectQualificationBuilder {
     private ProjectQualification instance;
 
