@@ -5,7 +5,7 @@
  */
 package com.entities.builder;
 
-import com.wookie.devteam.entities.Status;
+import com.entities.Status;
 
 public class StatusBuilder {
     private Status instance;
