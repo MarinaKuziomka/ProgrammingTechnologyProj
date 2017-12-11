@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.wookie.devteam.entities.builder;
+package com.entities.builder;
 
 import com.wookie.devteam.entities.Project;
 import com.wookie.devteam.entities.Status;
@@ -11,10 +11,7 @@ import com.wookie.devteam.entities.Status;
 import java.math.BigDecimal;
 import java.util.Date;
 
-/**
- *
- * @author wookie
- */
+
 public class ProjectBuilder {
     private Project instance;
     
