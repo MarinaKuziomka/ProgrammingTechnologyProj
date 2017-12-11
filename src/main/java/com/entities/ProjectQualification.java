@@ -7,7 +7,6 @@ package com.entities;
 
 import java.util.Objects;
 
-
 public class ProjectQualification {
     private Project project;
     private Qualification qualification;

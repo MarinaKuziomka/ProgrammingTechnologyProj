@@ -7,7 +7,6 @@ package com.entities;
 
 import java.util.Objects;
 
-
 public class Status {
     private Integer id;
     private String name;

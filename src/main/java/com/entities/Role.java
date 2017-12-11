@@ -7,7 +7,6 @@ package com.entities;
 
 import java.util.Objects;
 
-
 public class Role {
     private Integer id;
     private String name;

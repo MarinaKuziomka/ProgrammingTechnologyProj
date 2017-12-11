@@ -7,7 +7,6 @@ package com.entities;
 
 import java.util.Objects;
 
-
 public class Task {
     private Integer id;
     private String text;
