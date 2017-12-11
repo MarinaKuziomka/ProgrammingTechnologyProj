@@ -5,8 +5,8 @@
  */
 package com.entities.builder;
 
-import com.wookie.devteam.entities.Project;
-import com.wookie.devteam.entities.Status;
+import com.entities.Project;
+import com.entities.Status;
 
 import java.math.BigDecimal;
 import java.util.Date;
